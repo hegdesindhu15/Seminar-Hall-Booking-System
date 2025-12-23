@@ -1,0 +1,18 @@
+# XAMPP / PHP
+/vendor/
+*.log
+
+# Database
+*.sql
+*.db
+
+# Env files
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
